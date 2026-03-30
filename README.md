@@ -111,10 +111,6 @@ Newtons_Law_of_Motion/
 │── articles/
 ```
 
-## Notes
-
-This project is based on an article originally written in Turkish and later translated into English. The original Turkish version is available in the repository.
-
 ## Future Improvements
 
 * Adding multi-body simulations
