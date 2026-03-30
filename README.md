@@ -59,21 +59,21 @@ The simulations model how objects respond to forces over time.
 
 ### 1. First Law (Inertia)
 
-![First Law](results/NewtonsFirstLawofMotion.png)
+![First Law](results/FirstLaw.png)
 
 This visualization shows motion with zero net force.
 The object maintains constant velocity, demonstrating the principle of inertia.
 
 ### 2. Second Law (F = m·a)
 
-![Second Law](results/NewtonsSecondLawofMotion.png)
+![Second Law](results/SecondLaw.png)
 
 This graph demonstrates how a constant net force produces constant acceleration.
 Changes in mass or force directly affect the rate of acceleration.
 
 ### 3. Third Law (Action–Reaction)
 
-![Third Law](results/NewtonsThirdLawofMotion.png)
+![Third Law](results/ThirdLaw.png)
 
 This visualization illustrates equal and opposite forces acting on interacting objects.
 Although the forces are equal, their effects differ depending on mass.
